@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: toyapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bruce
+Implementation-Vendor-Id: br.com.spring
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
